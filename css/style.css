@@ -76,3 +76,7 @@ tr:first-child > td > .fc-day-grid-event{
 .fc-dayGrid-view .fc-week-number, .fc-dayGrid-view .fc-day-number{
     padding: 7px;
 }
+
+.brand{
+    font-family: "Montserrat Black";
+}
